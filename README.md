@@ -7,4 +7,4 @@
 
 ##Link
 
-- 🔗 :: https://ver2-8jv.pages.dev
+- 🔗 :: https://resite.link/gamex
