@@ -1,8 +1,8 @@
 // Redirects to the respective URLs when the buttons are clicked
-document.getElementById('gamex').addEventListener('click', () => {
-    window.location.href = 'https://sites.google.com/view/unblockedgamex/home';
+document.getElementById('FlipBoi').addEventListener('click', () => {
+    window.location.href = 'https://sites.google.com/lebcedars.org/flip-boi/home';
 });
 
-document.getElementById('heatnovea').addEventListener('click', () => {
-    window.location.href = 'https://sites.google.com/view/heatnovea/home';
+document.getElementById('WolfMo').addEventListener('click', () => {
+    window.location.href = 'https://sites.google.com/lebcedars.org/wolfmovies/home';
 });
